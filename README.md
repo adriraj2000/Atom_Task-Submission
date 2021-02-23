@@ -17,7 +17,9 @@
 ![Photos](image_2.PNG)
 ![Photos](image_3.PNG)
 ![Photos](image_4.PNG)
+<p align="center">
 ![Photos](image_5.PNG)
+</p>
 
 
 
