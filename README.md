@@ -12,7 +12,7 @@
 <li>Android Studio</li>
 
 
-# ScreenShots
+## ScreenShots
     ### Login and Registration Page
     <a href="https://github.com/adriraj2000/Atom_Task-Submission">
     <img src="https://github.com/adriraj2000/Atom_Task-Submission/blob/master/image_1.PNG" alt="Image_1" />
