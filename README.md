@@ -33,7 +33,7 @@ Validations for name, password and email
 <img src="https://github.com/adriraj2000/Atom_Task-Submission/blob/master/image_4.PNG" alt="Image_4" />
 </a>
 
-Login validation
+Login validation<br>
 <a href="https://github.com/adriraj2000/Atom_Task-Submission">
 <img src="https://github.com/adriraj2000/Atom_Task-Submission/blob/master/image_5.PNG" alt="Image_5" />
 </a>
