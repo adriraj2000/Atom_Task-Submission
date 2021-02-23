@@ -14,15 +14,29 @@
 
 # ScreenShots
     ### Login and Registration Page
-    ![Photos](image_1.PNG)
+    <a href="https://github.com/adriraj2000/Atom_Task-Submission">
+    <img src="https://github.com/adriraj2000/Atom_Task-Submission/blob/master/image_1.PNG" alt="Image_1" />
+    </a>
+
     ### User registers and lands on homepage
-    ![Photos](image_2.PNG)
+    <a href="https://github.com/adriraj2000/Atom_Task-Submission">
+        <img src="https://github.com/adriraj2000/Atom_Task-Submission/blob/master/image_2.PNG" alt="Image_2" />
+    </a>
+
     ### User added to firebase
-    ![Photos](image_3.PNG)
+    <a href="https://github.com/adriraj2000/Atom_Task-Submission">
+        <img src="https://github.com/adriraj2000/Atom_Task-Submission/blob/master/image_3.PNG" alt="Image_3" />
+    </a>
+
     ### Validations for name, password and email
-    ![Photos](image_4.PNG)
+    <a href="https://github.com/adriraj2000/Atom_Task-Submission">
+        <img src="https://github.com/adriraj2000/Atom_Task-Submission/blob/master/image_4.PNG" alt="Image_4" />
+    </a>
+
     ### Login validation
-    ![Photos](image_5.PNG)
+    <a href="https://github.com/adriraj2000/Atom_Task-Submission">
+        <img src="https://github.com/adriraj2000/Atom_Task-Submission/blob/master/image_5.PNG" alt="Image_5" />
+    </a>
 
 
 
