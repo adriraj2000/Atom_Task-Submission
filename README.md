@@ -13,13 +13,17 @@
 
 
 # ScreenShots
-![Photos](image_1.PNG)
-![Photos](image_2.PNG)
-![Photos](image_3.PNG)
-![Photos](image_4.PNG)
-<p align="center">
-![Photos](image_5.PNG)
-</p>
+    ### Login and Registration Page
+    ![Photos](image_1.PNG)
+    ### User registers and lands on homepage
+    ![Photos](image_2.PNG)
+    ### User added to firebase
+    ![Photos](image_3.PNG)
+    ### Validations for name, password and email
+    ![Photos](image_4.PNG)
+    ### Login validation
+    ![Photos](image_5.PNG)
+
 
 
 
