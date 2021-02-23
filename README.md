@@ -13,11 +13,11 @@
 
 
 # ScreenShots
-![Photos](image_1.png)
-![Photos](image_2.png)
-![Photos](image_3.png)
-![Photos](image_4.png)
-![Photos](image_5.png)
+![Photos](image_1.PNG)
+![Photos](image_2.PNG)
+![Photos](image_3.PNG)
+![Photos](image_4.PNG)
+![Photos](image_5.PNG)
 
 
 
