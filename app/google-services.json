@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52539291577",
+    "project_id": "atom-task",
+    "storage_bucket": "atom-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52539291577:android:dda1a4c6fcd0714d0a2868",
+        "android_client_info": {
+          "package_name": "com.example.atomtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52539291577-38dblgoaleim2ml2jm6cgtguuburu187.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-1-4p3B35MK9BFSyBvBncCM28ujglCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52539291577-38dblgoaleim2ml2jm6cgtguuburu187.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
